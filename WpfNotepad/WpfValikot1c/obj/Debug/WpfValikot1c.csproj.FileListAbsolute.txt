@@ -1,0 +1,17 @@
+C:\Users\Jenna\source\repos\WpfValikot1c\WpfValikot1c\bin\Debug\WpfValikot1c.exe.config
+C:\Users\Jenna\source\repos\WpfValikot1c\WpfValikot1c\bin\Debug\WpfValikot1c.exe
+C:\Users\Jenna\source\repos\WpfValikot1c\WpfValikot1c\bin\Debug\WpfValikot1c.pdb
+C:\Users\Jenna\source\repos\WpfValikot1c\WpfValikot1c\obj\Debug\WpfValikot1c.csprojAssemblyReference.cache
+C:\Users\Jenna\source\repos\WpfValikot1c\WpfValikot1c\obj\Debug\MainWindow.g.cs
+C:\Users\Jenna\source\repos\WpfValikot1c\WpfValikot1c\obj\Debug\App.g.cs
+C:\Users\Jenna\source\repos\WpfValikot1c\WpfValikot1c\obj\Debug\WpfValikot1c_MarkupCompile.cache
+C:\Users\Jenna\source\repos\WpfValikot1c\WpfValikot1c\obj\Debug\WpfValikot1c_MarkupCompile.lref
+C:\Users\Jenna\source\repos\WpfValikot1c\WpfValikot1c\obj\Debug\MainWindow.baml
+C:\Users\Jenna\source\repos\WpfValikot1c\WpfValikot1c\obj\Debug\WpfValikot1c.g.resources
+C:\Users\Jenna\source\repos\WpfValikot1c\WpfValikot1c\obj\Debug\WpfValikot1c.Properties.Resources.resources
+C:\Users\Jenna\source\repos\WpfValikot1c\WpfValikot1c\obj\Debug\WpfValikot1c.csproj.GenerateResource.cache
+C:\Users\Jenna\source\repos\WpfValikot1c\WpfValikot1c\obj\Debug\WpfValikot1c.csproj.CoreCompileInputs.cache
+C:\Users\Jenna\source\repos\WpfValikot1c\WpfValikot1c\obj\Debug\WpfValikot1c.exe
+C:\Users\Jenna\source\repos\WpfValikot1c\WpfValikot1c\obj\Debug\WpfValikot1c.pdb
+C:\Users\Jenna\source\repos\WpfValikot1c\WpfValikot1c\obj\Debug\Window1.g.cs
+C:\Users\Jenna\source\repos\WpfValikot1c\WpfValikot1c\obj\Debug\Window1.baml
